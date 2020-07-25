@@ -4,7 +4,7 @@ Tab キーを Fn キーのように振る舞わせる AutoHotkey スクリプト
 
 ![demo](https://github.com/yuru7/TabFnKey/raw/images/20200725-114349.gif)
 
-# 動作システム
+## 動作システム
 
 Windows 10 (2004), AutoHotkey v1.1.33.02 にて動作を確認した。
 
