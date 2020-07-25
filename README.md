@@ -6,9 +6,9 @@ Tab キーを Fn キーのように振る舞わせる AutoHotkey スクリプト
 
 ## 構成ファイル
 
+* TabFnKey.exe: TabFnKey.ahk をコンパイルし、単体で起動できるようにした実行ファイル (**通常はこちらを実行するだけで OK**)
 * TabFnKey.ahk: AutoHotkey 用スクリプトファイル
-* TabFnKey.exe: TabFnKey.ahk をコンパイルし、単体で起動できるようにした実行ファイル
-* US→JIS\(Win系,Tab系ショートカット付\).kaeuchi: [かえうち2](https://kaeuchi.jp/summary/) で利用できる設定ファイル。TabFnKey.ahk と同等の設定を加えている
+* US→JIS\(Win系,Tab系ショートカット付\).kaeuchi: [かえうち2](https://kaeuchi.jp/summary/) で同等の操作を利用できる設定ファイル。TabFnKey.ahk と同等の設定を加えている
   * JIS 配列の環境に US 配列キーボードを接続して利用することを想定した設定になっているため、他の環境 (JIS 環境に JIS 配列キーボードを接続している等) の場合には、設定を参考に作成してください。
 
 ## ホットキー リスト
@@ -28,7 +28,7 @@ Tab キーを Fn キーのように振る舞わせる AutoHotkey スクリプト
 * Tab-W: Ctrl Down/Up
 * Tab-1: Ctrl-PageUp
 * Tab-2: Ctrl-PageDown
-* その他、利便性向上のために以下を追加で設定している
+* **その他、利便性向上のために以下を追加で設定している**
   * Capslock: 全角/半角
   * Win-C: ウィンドウを閉じる (Alt-F4 の動作)
   * Win-Esc: ウィンドウを最小化 (Win-Down の動作)
