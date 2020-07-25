@@ -23,7 +23,7 @@ Tab キーを Fn キーのように振る舞わせる AutoHotkey スクリプト
 * Tab-N: Backspace (Space 中: カーソルより前を削除)
 * Tab-M: Delete (Space 中: カーソルより後ろを削除)
 * Tab-,: Ctrl-C (Space 中: Ctrl-X)
-* Tab-.: Ctrl-V (Space 中: 変更なし)
+* Tab-.: Ctrl-V
 * Tab-Q: Shift Down/Up
 * Tab-W: Ctrl Down/Up
 * Tab-1: Ctrl-PageUp
