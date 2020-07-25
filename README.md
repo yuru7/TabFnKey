@@ -34,7 +34,7 @@ Windows 10 (2004), AutoHotkey v1.1.33.02 にて動作を確認した。
 * Tab-1: Ctrl-PageUp
 * Tab-2: Ctrl-PageDown
 * **その他、利便性向上のために以下を追加で設定している**
-  * Capslock: 全角/半角
+  * Capslock: 全角/半角 (従来の Capslock 動作は、Win-Capslock を押下でも動作する)
   * Win-C: ウィンドウを閉じる (Alt-F4 の動作)
   * Win-Esc: ウィンドウを最小化 (Win-Down の動作)
   * Win-Space: ウィンドウを最大化 (Win-Up の動作)
