@@ -4,12 +4,16 @@ Tab キーを Fn キーのように振る舞わせる AutoHotkey スクリプト
 
 ![demo](https://github.com/yuru7/TabFnKey/raw/images/20200725-114349.gif)
 
+# 動作システム
+
+Windows 10 (2004), AutoHotkey v1.1.33.02 にて動作を確認した。
+
 ## 構成ファイル
 
 * TabFnKey.exe: TabFnKey.ahk をコンパイルし、単体で起動できるようにした実行ファイル (**通常はこちらを実行するだけで OK**)
 * TabFnKey.ahk: AutoHotkey 用スクリプトファイル
 * US→JIS\(Win系,Tab系ショートカット付\).kaeuchi: [かえうち2](https://kaeuchi.jp/summary/) で同等の操作を利用できる設定ファイル。TabFnKey.ahk と同等の設定を加えている
-  * JIS 配列の環境に US 配列キーボードを接続して利用することを想定した設定になっているため、他の環境 (JIS 環境に JIS 配列キーボードを接続している等) の場合には、設定を参考に作成してください。
+  * JIS 配列の環境に US 配列キーボードを接続して利用することを想定した設定になっているため、他の環境 (JIS 環境に JIS 配列キーボードを接続している等) の場合には、当設定を参考に作成してください。
 
 ## ホットキー リスト
 
