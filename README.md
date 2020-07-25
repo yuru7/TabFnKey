@@ -28,6 +28,7 @@ Windows 10 (2004), AutoHotkey v1.1.33.02 にて動作を確認した。
 * Tab-M: Delete (Space 中: カーソルより後ろを削除)
 * Tab-,: Ctrl-C (Space 中: Ctrl-X)
 * Tab-.: Ctrl-V
+* Tab-/: Ctrl-Z
 * Tab-Q: Shift Down/Up
 * Tab-W: Ctrl Down/Up
 * Tab-1: Ctrl-PageUp
