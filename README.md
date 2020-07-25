@@ -1,5 +1,5 @@
 # TabFnKey
-Tab キーを Fn キーのように振る舞わせる AutoHotkey スクリプトとかえうち設定
+Tab キーを Fn キーのように振る舞わせる AutoHotkey スクリプトとかえうち設定  
 ※従来の Tab キー動作 (Alt-Tab 等) には影響が無いように調整している
 
 ![demo](https://github.com/yuru7/TabFnKey/raw/images/20200725-114349.gif)
